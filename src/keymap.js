@@ -1,5 +1,5 @@
-import {base, keyName} from "w3c-keyname"
-import {Plugin} from "prosemirror-state"
+import {base, keyName} from "../../w3c-keyname/index.js"
+import {Plugin} from "../../prosemirror-state/src/index.js"
 
 // declare global: navigator
 
